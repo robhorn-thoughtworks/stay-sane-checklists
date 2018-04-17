@@ -39,7 +39,7 @@ Checklists to help busy tech leaders stay sane and stay awesome
 * Not complacent checklist (don't go know native)
 * Change your game prompts
 * Play to your weaknesses
-* Day start checklist
+* [Start of Day Checklist](/checklists/start-of-day.md)
 * End of day retro checklist
 * Delegation checklist
 * Architectural Principles
