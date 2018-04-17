@@ -14,6 +14,7 @@ Stuff changes all of the time, it's one of the few constants in life.  Much of m
 - I also take inspiration from the [Emergent Task Planner](https://davidseah.com/node/the-emergent-task-planner/) from [David Seah](https://www.davidseah.com)
 
 So at the start of the every day, typically whilst commuting, I:
+
 __Capture schedule for the day__  
 _I fire up my calendar and capture it in my notebook._
 
@@ -29,4 +30,4 @@ _If appropriate I will add to the ToDo list for today, if not I won't._
 __Set a mission for the day__  
 _It is also quite uplifting and rewarding to set yourself a mission for the day.  Specify these in terms of something that you have achieved - it will become self fulfilling.  E.g. "Today I have practiced active listening techniques."_
 
-So that is it - 10 mins and I have a game plan for the day.  I know and am comfortable that some, or a good part of it will change, and that's OK.  I will do what I can to deliver on the commitments I have made, but won't beat myself up if I fail to complete other items on the ToDo list for the day. 
+So that is it - 10 mins and I have a game plan for the day.  I know and am comfortable that some, or a good part of it will change, and that's OK.  I will do what I can to deliver on the commitments I have made, but won't beat myself up if I fail to complete other items on the ToDo list for the day.
